@@ -64,6 +64,11 @@ html {
   letter-spacing: 1px;
   border-style: none;
 }
+.navbar-button:hover , .navbar-search-btn:hover {
+  background-color: #45a049; 
+  transform: scale(1.05);    
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+}
 .navbar-search {
   width: 200px;
   height: 30px;
